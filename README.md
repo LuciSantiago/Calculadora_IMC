@@ -1,10 +1,11 @@
-# imc
+# Calculadora de IMC
 
-A new Flutter project.
+Calculadora de Imc utilizando o State Manager Cubit + Freezed
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
